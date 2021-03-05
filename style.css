@@ -4,3 +4,6 @@ p, li { text-align: center; line-height: 24px; color: #475550; width: 100%; font
 .trybe-green2 {color: #11a36a;}
 .hero-title {color: #0a7e51; line-height: 55px; font-weight: 600px; font-size: 40px}
 .section-title {line-height: 42px; font-weight: 600; font-size: 28;}
+.testimonial-name {line-height: 20px; font-weight: 600; font-size: 14px;}
+.picture {border-radius: 100px;}
+.button {color: white; background-color: #11a36a; padding: 15px 30px; border-radius:4px; font-weight: 600; text-decoration: none;} 
