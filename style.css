@@ -1,0 +1,6 @@
+body {font-family:montserrat, sans-serif;}
+p, li { text-align: center; line-height: 24px; color: #475550; width: 100%; font size: 16px;}
+.trybe-green { margin-top: 10px; margin-bottom: 60px; font-size: 28px; font-weight: 600; line-height: 42px ;text-align: center; color: #11a36a;}
+.trybe-green2 {color: #11a36a;}
+.hero-title {color: #0a7e51; line-height: 55px; font-weight: 600px; font-size: 40px}
+.section-title {line-height: 42px; font-weight: 600; font-size: 28;}
