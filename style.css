@@ -1,3 +1,6 @@
+* {margin: 0px;
+padding: 0px;}
+
 body {font-family:montserrat, sans-serif;}
 p, li { text-align: center; line-height: 24px; color: #475550; width: 100%; font size: 16px;}
 .trybe-green { margin-top: 10px; margin-bottom: 60px; font-size: 28px; font-weight: 600; line-height: 42px ;text-align: center; color: #11a36a;}
@@ -7,3 +10,8 @@ p, li { text-align: center; line-height: 24px; color: #475550; width: 100%; font
 .testimonial-name {line-height: 20px; font-weight: 600; font-size: 14px;}
 .picture {border-radius: 100px;}
 .button {color: white; background-color: #11a36a; padding: 15px 30px; border-radius:4px; font-weight: 600; text-decoration: none;} 
+
+.header {background-image: url(imagens/smiling-image.jpg) ;
+background-size: cover;
+background-position: 50% 25%;
+padding: 60px 40px;} 
